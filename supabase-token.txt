@@ -8,7 +8,11 @@ sbp_3d3b3199371768cae49f286272151f9cfa0ad73c
 
 
 supbase login with github
+first_project
 password - 3!#kH59NWfx#Mug
+
+demo2
+password- PBLFLu7JVgiPO2Pp
 
 
 
