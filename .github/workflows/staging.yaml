@@ -13,7 +13,7 @@ jobs:
     env:
       SUPABASE_ACCESS_TOKEN: sbp_c655be65120dba796a7daff3023c59670d1af906
       SUPABASE_DB_PASSWORD: PBLFLu7JVgiPO2Pp
-      PROJECT_ID: lratwpruzhuxugatcrxb
+      PROJECT_ID: npbegzjgildaqccfwphg
 
     steps:
       - uses: actions/checkout@v3
